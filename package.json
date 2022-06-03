@@ -1,0 +1,23 @@
+{
+  "name": "JS_stdin_stdout",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/excelproCL/JS_stdin_stdout.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/excelproCL/JS_stdin_stdout/issues"
+  },
+  "homepage": "https://github.com/excelproCL/JS_stdin_stdout#readme",
+  "dependencies": {
+    "cli-color": "^2.0.2"
+  }
+}
